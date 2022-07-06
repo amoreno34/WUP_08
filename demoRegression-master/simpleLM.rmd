@@ -24,6 +24,8 @@ abline(simp)
 summary.lm(simp)
 ```
 
+Plot is positive linear. 
+
 ## now predict the length of a bear who has a neck of 17, 22 and 26
 
 
