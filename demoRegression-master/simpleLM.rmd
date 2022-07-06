@@ -51,3 +51,14 @@ new <- data.frame(CHEST=c(17,22,26))
 predict(chesty,new)
 predict(chesty,new,se.fit=TRUE)
 ```
+
+
+```{r}
+weighty <- lm(LENGTH~WEIGHT,data=bears)
+plot(LENGTH~WEIGHT,data=bears)
+abline(weighty)
+summary.lm(weighty)
+```
+
+Weight as the comparison seems to be similar producing the same p-value. The standard error is larger though. 
+
