@@ -62,3 +62,8 @@ summary.lm(weighty)
 
 Weight as the comparison seems to be similar producing the same p-value. The standard error is larger though. 
 
+
+
+##  Conclusion
+
+The best option from analyzing the plots is to use length with chest. It has the least value in error and gives more accurate results. The test used were numerical vs numerical since thee values are all numerical. The subject was bears and analyziong the length, weight, neck and chest sizes. If sex was an option that would be a categorical value. 
